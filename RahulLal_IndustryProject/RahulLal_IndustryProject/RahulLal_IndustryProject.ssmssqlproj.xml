@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="RahulLal_IndustryProject">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="LAPTOP-0LKJQ13M\RAHULLALSQL:SQL04\Administrator">
+          <Created>2016-06-20T16:01:31.9252978-07:00</Created>
+          <Type>SQL</Type>
+          <Server>LAPTOP-0LKJQ13M\RAHULLALSQL</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="SQL04:SQL04\Administrator">
+          <Created>2016-06-22T11:16:38.7681318-07:00</Created>
+          <Type>SQL</Type>
+          <Server>SQL04</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="DatabaseSetup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SQL04:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SQL04</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DatabaseSetup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MakingOrder.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SQL04:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SQL04</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MakingOrder.sql</FullPath>
+        </FileNode>
+        <FileNode Name="OrderSetup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SQL04:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SQL04</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>OrderSetup.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
